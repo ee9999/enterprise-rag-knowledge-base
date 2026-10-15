@@ -1,0 +1,4 @@
+Fictional Company HR Policy (Demo Only)
+Annual leave: Full-time employees receive 10 days of annual leave per year in this fictional company.
+Remote work: Employees may request up to 2 remote work days per week with manager approval.
+Expense reimbursement: Submit receipts within 30 calendar days. Manager approval is required for amounts above TWD 3,000.

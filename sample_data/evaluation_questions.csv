@@ -1,0 +1,4 @@
+question,expected_source,expected_keyword
+How many annual leave days are provided?,hr_policy.txt,10 days
+How can I reset my password?,it_support.txt,self-service
+How long do I have to submit receipts?,hr_policy.txt,30

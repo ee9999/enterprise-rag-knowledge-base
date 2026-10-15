@@ -1,0 +1,4 @@
+Fictional Company IT Support Guide (Demo Only)
+Password reset: Visit the internal self-service portal and verify your identity. Never share your password with support staff.
+Device issues: Create a helpdesk ticket including device type, operating system, error message and time of incident.
+VPN access: Request access through the IT service portal. Approval is required before activation.
