@@ -4,9 +4,9 @@ A document question-answering app built with **Python, OpenAI Embeddings, and St
 
 ## Features
 - Upload TXT, Markdown, or text-based PDF documents
-- Chunk documents and generate OpenAI embeddings (`text-embedding-3-small`)
+- Chunk documents and generate OpenAI embeddings (`gemini-embedding-001`)
 - Retrieve passages using cosine similarity and configurable Top-K
-- Generate answers with `gpt-4.1-mini` and show cited source passages
+- Generate answers with `gemini-3.5-flash-lite` and show cited source passages
 - Return a no-answer message when retrieval finds no matching passages
 - Basic error handling and automated tests
 
